@@ -1,7 +1,7 @@
 # LLM-Few shot classification and articulation
 
 This repository contains the prompts desined for few-sgot classification for identification of digit in the image by  GPT-3.5-turbo. 
-You can see the result for different prompt by running corresponding Jupyter notebook.
+You can see the result for different prompst by running corresponding Jupyter notebook.
 
 
 # Requirements
